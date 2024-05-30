@@ -18,11 +18,9 @@ tags:
 
 ---
 
-### **Invitation to openSUSE Asia Summit 2024 Tokyo Japan**
+### What is openSUSE.Asia Summit?
 
-### What is openSUSE.Asia Summit?**
-
-The openSUSE Project is excited to announce that openSUSE.Asia Summit 2024 will be held in Tokyo, Japan. The openSUSE.Asia Summit is an annual conference for users and contributors of openSUSE and FLOSS enthusiasts. The former summits received major participation from Indonesia, China, Taiwan, Japan, South Korea, and India.
+The openSUSE Project is excited to announce that [openSUSE.Asia Summit 2024](https://events.opensuse.org/conferences/oSAS24) will be held in Tokyo, Japan. The openSUSE.Asia Summit is an annual conference for users and contributors of openSUSE and FLOSS enthusiasts. The former summits received major participation from Indonesia, China, Taiwan, Japan, South Korea, and India.
 
 Since the first openSUSE.Asia Summit was held in Beijing in 2014, the summits have been great opportunities for the online community to gather in person, know each other, and share knowledge and experiences about openSUSE including applications running on it. However, COVID-19 made it difficult for 3 years. One of our goals of this year’s summit is to provide a place for communication. Please note that we will not accept talks by video call this year.
 
@@ -34,20 +32,22 @@ You might be interested in [Open Source Summit Japan](https://events.linuxfounda
 
 ### Cross-Distro Track
 
-We are going to co-host the Cross-Distro Track by the collaboration with Cross Distro Developers Camp (XDDC). XDDC is a wider developer community of FLOSS OS distribution including openSUSE, Debian and Ubuntu and works together to resolve common issues especially related to Japanese. This year, we are considering inviting speakers and participants from other distribution communities, which will undoubtedly contribute to making the event even more exciting. Furthermore, it will be a great chance to let them know how openSUSE and its community are.
+We are going to co-host the Cross-Distro Track by the collaboration with [Cross Distro Developers Camp](https://xddc.connpass.com) (XDDC). XDDC is a wider developer community of FLOSS OS distribution including openSUSE, Debian and Ubuntu and works together to resolve common issues especially related to Japanese. This year, we are considering inviting speakers and participants from other distribution communities, which will undoubtedly contribute to making the event even more exciting. Furthermore, it will be a great chance to let them know how openSUSE and its community are.
 
 ### Venue
 
-<center><img src="/wp-content/uploads/2024/05/osas_venue.jpg" title="List of defined projects"></center>
+![Azabudai Hills](/wp-content/uploads/2024/05/osas_venue.jpg)
 
-The openSUSE.Asia Summit 2024 is going to be held in [SHIFT Inc.,](https://en.shiftinc.jp/) located in Azabudai Hills, Minato-ku, Tokyo, Japan.  SHIFT Inc. is a company that supports to create sellable products and services and to grow the business of its customers.  It offers integrated IT solutions and consulting services, including development, testing, UI/UX, and security, with its outstanding knowledge in software quality assurance.
-[SHIFT Inc., website](https://en.shiftinc.jp/)
+The openSUSE.Asia Summit 2024 is going to be held in [SHIFT Inc.](https://en.shiftinc.jp/), located in Azabudai Hills, Minato-ku, Tokyo, Japan.  SHIFT Inc. is a company that supports to create sellable products and services and to grow the business of its customers.  It offers integrated IT solutions and consulting services, including development, testing, UI/UX, and security, with its outstanding knowledge in software quality assurance.
+
+* [SHIFT Inc.](https://en.shiftinc.jp/)
+
 
 [Azabudai Hills](https://www.azabudai-hills.com/en/) is a large-scale urban redevelopment project completed in November 2023. This area, which combines offices, residential units, retail outlets, and cultural facilities, is also a newly prominent tourist attraction. It is, of course, easy to access from Tokyo/Haneda airport and anywhere in the capital area by public transportation.
 
 ### Tokyo and Japan
 
-<center><img src="/wp-content/uploads/2024/05/osas_tokyo.jpg" title="List of defined projects"></center>
+![Tokyo food & scenery](/wp-content/uploads/2024/05/osas_tokyo.jpg)
 
 Tokyo is the capital of Japan. Its infrastructure and global connectivity will help attendees travel to the summit. There are direct flights from major cities in Asia Pacific as well as Europe and North America to either Tokyo/Haneda or Tokyo/Narita.
 
@@ -58,7 +58,8 @@ Tokyo is also a popular place for sightseeing with its unique culture, food, etc
 
 The number of tourists from abroad has recovered last year to the same level as before COVID-19. Due to the currency exchange rate, it will be a great chance to enjoy your trip to Japan while saving your money.
 
-However, if there is any possibility of attending the summit, you should book your hotel right away with a cancelable plan. Some of our recommended hotels start accepting reservations from 5 months ago, which is June 1. Because Nov. 4 is a public holiday in Japan, rooms in budget hotels become sold out soon, or you will need to pay for your hotel at an inappropriately expensive rate, which might not be covered by [the travel support program](https://en.opensuse.org/openSUSE:Travel_Support_Program).
+However, if there is any possibility of attending the summit, you should book your hotel right away with a cancelable plan. Some of our recommended hotels start accepting reservations from 5 months ago, which is June 1. Because Nov. 4 is a public holiday in Japan, rooms in budget hotels become sold out soon, or you will need to pay for your hotel at an inappropriately expensive rate, which might not be covered by [the Travel Support Program](https://en.opensuse.org/openSUSE:Travel_Support_Program).
+
 Please also check the following web sites for tourism information in Tokyo and Japan:
 
 * [GO TOKYO (Tokyo Convention & Visitors Bureau) ](https://www.gotokyo.org/)
